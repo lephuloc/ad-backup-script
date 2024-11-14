@@ -101,9 +101,9 @@ MIT License
 
 ## Tác giả
 
-- Tên tác giả
-- Email liên hệ
-- Website
+- Tên tác giả: loclp
+- Email liên hệ: lephuloc6720@gmail.com
+- Facebook: https://www.facebook.com/lephuloc6720/
 
 ## Ghi chú
 
