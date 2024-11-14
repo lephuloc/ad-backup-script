@@ -1,0 +1,62 @@
+# PowerShell files
+*.ps1xml
+*.psm1
+*.psd1
+*.ps1.tests
+
+# Backup files
+**/Backup*/
+*.bak
+*.backup
+
+# Windows files
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Logs and databases
+*.log
+*.sqlite
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# PowerShell Studio
+*.psproj
+*.psprojs
+*.psbuild
+*.psbuild.ps1
+
+# Module manifest
+*.psd1
+*.psm1
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Local history
+.history/
